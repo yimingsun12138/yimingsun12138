@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yiming Sun from Peking University, School of Life Science
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning single cell analysis
+- 👋 Hi, I’m Yiming Sun from Peking University, School of Life Science.
+- 👀 I’m interested in bioinformatics.
+- 🌱 I’m currently learning single cell analysis.
 - 📫 Here is my personal website and you can reach out to me [here](https://www.mrdoge.cool).
